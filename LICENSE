@@ -29,8 +29,8 @@ To run this project locally, ensure you have the following installed:
 ## INSTALLATION
 
 1. Clone the Repository:
-   git clone https://github.com/JohnIvn/Nihon-Gaku.git
-   cd nihon-gaku
+   git clone https://github.com/JohnIvn/RE-Nihon-Gaku.git
+   cd re-nihon-gaku
 
 2. Install Dependencies:
    npm install
