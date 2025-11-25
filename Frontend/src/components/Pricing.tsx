@@ -3,8 +3,8 @@ import Button from "./Button";
 
 export default function Pricing() {
   return (
-    <section id="pricing" className="bg-slate-50 py-16">
-      <div className="max-w-6xl mx-auto px-6">
+    <section id="pricing" className="min-h-screen flex items-center" style={{ backgroundColor: '#dff8c2' }}>
+      <div className="max-w-6xl mx-auto px-6 py-8">
         <h3 className="text-center text-sm font-semibold text-indigo-600">
           Pricing
         </h3>

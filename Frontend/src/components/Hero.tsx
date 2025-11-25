@@ -3,8 +3,8 @@ import Button from "./Button";
 
 export default function Hero() {
   return (
-    <section className="page-bg-playful">
-      <div className="max-w-6xl mx-auto px-6 py-20 grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+    <section className="page-bg-playful min-h-screen flex items-center">
+      <div className="max-w-6xl mx-auto px-6 grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
         <div>
           <h1 className="text-4xl md:text-5xl font-extrabold text-slate-900 leading-tight">
             Learn Japanese with fun, bite-sized lessons
